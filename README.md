@@ -1,5 +1,5 @@
 <h1 align = "center"> 
-    <img src="./Automação.jpeg" height= "400" widht= "250
+    <img src="./Imagens/Automação.jpeg" height= "400" widht= "250
     "/>
     <p> Automação de Indicadores com Python 📈</p>
 </h1>
@@ -17,7 +17,7 @@ Todo dia, pela manhã, a equipe de análise de dados calcula os chamados One Pag
 
 <h2 align = "center" >
     <p>Exemplo de OnePage: </p>
-    <img src="./OnePage -Loja Shopping Eldorado.png"/>
+    <img src="./Imagens/OnePage -Loja Shopping Eldorado.png"/>
 </h2>
 
 
@@ -53,7 +53,7 @@ A partir da análise realizada de cada loja foi criado uma planilha e uma pasta 
 
 <h3 align = "center" >
     <p>Criação de Backup da planilha criada para loja  </p>
-    <img src="./Pastas Backup.png"/>
+    <img src="./Imagens/Pastas Backup.png"/>
 </h3>
 
 
@@ -62,5 +62,8 @@ A partir da análise realizada de cada loja foi criado uma planilha e uma pasta 
 Concluímos o projeto realizando o envio do resultado para os respectivos gerentes e um Ranking das melhores e piores lojas em desempenho para o diretor da empresa.
 <h3 align = "center" >
     <p>Envio de ONE PAGE para os Gerentes   </p>
-    <img src="./E-mail - OnePage Dia 26_12 - Loja Shopping Eldorado.png"/>
+    <img src="./Imagens/E-mail - OnePage Dia 26_12 - Loja Shopping Eldorado.png"/>
 </h3>
+
+
+Projeto finalizado com o envio do resultado para as 25 lojas.

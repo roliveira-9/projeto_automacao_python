@@ -79,8 +79,6 @@ A partir da análise realizada de cada loja foi criado uma planilha e uma pasta 
     <img src="./Imagens/Pastas Backup.png"/>
 </h4>
 
-
-
 <hr>
 
 ### Envio do ONEPAGE
@@ -89,7 +87,6 @@ Concluímos o projeto realizando o envio do resultado para os respectivos gerent
     <p>Envio de ONE PAGE para os Gerentes   </p>
     <img src="./Imagens/E-mail - OnePage Dia 26_12 - Loja Shopping Eldorado.png"/>
 </h5>
-
 
 
 Projeto finalizado com o envio do resultado para as 25 lojas.

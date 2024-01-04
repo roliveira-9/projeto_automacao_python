@@ -9,7 +9,7 @@ Automatização do processo de cálculo dos indicadores de vendas e o envio da a
 
 
 ### Estrutura do Repositório:
-- <b> Backup Aruivos Lojas: </b> Este diretório foi criado durante o processo de análise para arquivar as planilhas com resultados de cada loja.
+- <b> Backup Aruivos Lojas: </b> Este diretório foi criado durante o processo de análise para arquivar as planilhas com os resultados de cada loja.
 - <b> Bases de Dados: </b> Neste diretório encontram-se um arquivo .csv e dois arquivos em .xlsx utilizados para análise.
 - <b> Código: </b> Neste diretório contém o notebook Jupyter onde a análise foi realizada e os resultados obtidos.
 
@@ -63,7 +63,7 @@ Observações:
  
 - Cada indicador DIA foi calculado no último dia do ano disponível na planilha de Vendas (a data mais recente)
 
-<h3  >
+<h3>
     <p>Exemplo do Resultado do  ONEPAGE da Loja Shopping Eldorado  </p>
     <img src="./Imagens/OnePage -Loja Shopping Eldorado.png"/>
 </h3>

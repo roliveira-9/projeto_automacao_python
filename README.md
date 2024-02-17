@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./imagens/python.png" alt="Logo Bootcamp" width="150">
+<img src="./Imagens/python.png" alt="Logo Bootcamp" width="150">
 <h1>Desafio de Projeto: <br>Automação de Processos com Python 📈</h1>
 <img a src="./Imagens/DataCob-20231026-removebg-preview.png" height= "" widht=""/>
 </div>
@@ -70,7 +70,7 @@ Observações:
 
 <br>
     <h5 align = "center"> 
-        <img src="./imagens/base_vendas.jpg" />
+        <img src="./Imagens/base_vendas.jpg" />
         <p align ="left"> <strong>Amostra:</strong> Base Vendas.</p>
     </h5>
 <hr>
